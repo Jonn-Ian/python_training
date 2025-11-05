@@ -3,7 +3,9 @@ anagrams = {}
 
 for word in str: 
     key = "".join(sorted(word))
+    
+    for keys in word:
 
-    if key in str:
-        anagrams = key
-        print(anagrams)
+        if key in word:
+            anagrams = key
+            print([anagrams])
