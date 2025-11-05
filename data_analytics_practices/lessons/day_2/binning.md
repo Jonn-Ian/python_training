@@ -13,11 +13,11 @@
 
      the code for binning is:
 
-``` python
-bins = np.linspace(min(df["price"]), max(df["price"]), 4) # now this group to low and high
+        ``` python
+        bins = np.linspace(min(df["price"]), max(df["price"]), 4) # now this group to low and high
 
-group_names = ["low", "med", "high"]
+        group_names = ["low", "med", "high"]
 
-df["price"] =pd.cut(df["price"], bins, labels = group_names, include_lowest = True)
+        df["price"] =pd.cut(df["price"], bins, labels = group_names, include_lowest = True)
 
-```
+        ```
