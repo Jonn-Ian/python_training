@@ -1,0 +1,1051 @@
+year,month,products,price,discounts,sales,revenue,country
+2022,1,Gadget X,20,10,1,,Brazil
+2022,10,Widget C,,0,1,500,
+2023,12,Widget C,,,10,100,
+2023,7,Widget C,10,15,,500,Brazil
+2024,2,Widget B,,10,5,100,Philippines
+2024,12,Widget B,20,10,,500,USA
+2022,2,Widget B,100,,20,200,Philippines
+2025,4,Gadget X,100,15,5,200,India
+2022,9,Widget A,,5,20,500,Philippines
+2022,2,Gadget Y,50,5,5,200,UK
+2023,3,Widget B,30,10,1,200,Philippines
+,7,Widget C,,0,1,500,Germany
+2023,3,Gadget Y,,,,1000,Germany
+2024,,Widget C,100,15,50,1000,Brazil
+2024,5,Gadget Y,,10,1,100,Brazil
+2024,1,Widget B,20,,50,500,USA
+2023,7,Gadget X,,0,1,200,India
+2022,1,Gadget Y,20,,10,1000,India
+,11,Gadget Y,30,10,10,200,Philippines
+2024,11,Gadget Y,30,10,,100,Philippines
+2023,3,Gadget X,10,0,20,500,
+2023,3,Widget A,100,10,1,500,
+2024,12,Widget C,30,0,10,,India
+2022,11,Gadget X,100,10,5,1000,USA
+,4,,,15,5,500,India
+2022,11,Widget C,50,15,20,200,Philippines
+2024,7,Widget B,100,15,,,Philippines
+2024,8,,100,10,10,100,UK
+2023,3,Widget C,,,20,100,Philippines
+2025,1,Gadget Y,30,5,5,100,USA
+2023,,Gadget X,20,0,20,500,
+,9,Widget A,20,0,1,,Philippines
+2025,7,Widget B,20,15,,100,UK
+2024,7,Widget A,100,,20,200,Philippines
+,7,Widget A,50,0,5,,Brazil
+2025,8,Widget A,10,5,20,100,Brazil
+2022,4,,,5,1,1000,
+2022,6,,10,0,,100,India
+2022,5,Gadget Y,10,10,5,500,
+2022,1,Widget A,,,50,500,
+2023,,Gadget Y,10,5,1,100,Philippines
+2022,,Gadget X,100,5,1,,Brazil
+2024,12,Widget B,10,15,5,200,UK
+2022,3,Widget C,10,15,,100,Germany
+2025,5,Widget B,,10,50,100,Philippines
+2023,7,,,15,20,200,Philippines
+2025,9,Gadget X,100,15,10,,Brazil
+2023,1,Widget C,10,10,1,500,
+2024,5,Widget C,30,,1,,Germany
+2022,8,Widget A,20,0,,100,Brazil
+2024,6,Gadget Y,10,0,10,500,
+2022,1,Widget C,,,5,200,Germany
+2025,12,Gadget X,50,15,1,100,USA
+2023,12,Widget C,30,15,50,,India
+2023,7,,20,10,20,100,Germany
+2025,,Widget A,50,0,1,500,USA
+2023,6,Gadget X,100,0,10,200,
+2024,12,Gadget X,,,10,500,
+2025,12,Widget A,10,0,5,1000,Germany
+2024,10,,20,0,1,500,Brazil
+2022,,Gadget Y,30,,10,1000,Brazil
+2023,4,Widget A,20,0,,500,Philippines
+,1,Widget C,10,5,5,1000,
+2022,2,Widget A,10,10,1,500,Philippines
+2025,7,Widget A,100,10,5,500,Philippines
+2022,5,,30,0,5,,UK
+2024,5,Widget A,,5,5,200,USA
+2023,,Widget C,30,5,50,100,Germany
+2024,6,Widget B,100,5,10,500,USA
+,5,Gadget X,,15,10,,Germany
+2024,1,Widget A,100,15,,1000,Germany
+2022,4,Widget B,20,10,20,200,Philippines
+2024,,,50,10,50,500,Philippines
+2025,8,Widget C,50,5,50,,Brazil
+2025,8,Gadget Y,50,5,20,,UK
+2024,8,,50,,1,500,UK
+2023,5,,,15,20,500,Philippines
+2024,2,Widget A,100,,10,500,USA
+2023,2,,,,10,200,UK
+2023,10,,50,,10,500,Germany
+2025,12,Gadget X,100,0,20,,
+2024,2,Gadget Y,,,50,,Germany
+2023,10,Widget B,10,15,5,1000,Germany
+2024,4,Widget B,30,,10,,Germany
+2023,10,,20,,,200,Brazil
+2024,12,Gadget Y,50,0,1,500,Germany
+2023,2,Gadget X,20,15,10,,India
+2023,8,Widget B,50,10,5,200,Philippines
+2023,1,Widget C,100,0,20,500,Germany
+2022,9,Widget A,30,5,5,,Brazil
+2022,4,,100,,1,100,USA
+2022,11,Gadget Y,100,5,10,500,India
+2022,2,Gadget Y,20,5,50,,Brazil
+2024,8,Widget A,20,,5,,Germany
+2022,9,Gadget Y,20,,50,,Brazil
+2022,2,Widget A,30,5,1,200,India
+2022,8,Widget A,50,10,1,500,India
+2024,3,,50,,,1000,
+2025,12,,100,5,10,1000,Brazil
+2022,6,Gadget Y,100,0,,500,UK
+2023,,Widget B,100,10,1,500,Philippines
+2024,10,Gadget Y,50,0,10,100,Brazil
+2025,6,Widget B,10,0,,100,USA
+2023,,Gadget Y,,10,50,,Brazil
+,4,Widget B,10,5,1,200,Germany
+2023,5,Gadget X,30,10,,200,UK
+2023,10,Widget A,20,10,50,1000,UK
+2025,9,Widget A,30,,1,200,
+2022,6,Gadget X,50,0,10,500,Philippines
+2025,7,Widget A,50,5,20,1000,Germany
+2024,8,Gadget X,,,20,500,Germany
+2023,11,Gadget Y,30,5,10,1000,Philippines
+2025,11,Widget A,100,,,1000,Germany
+2023,12,Widget B,100,5,10,,India
+2023,11,Widget A,50,10,1,200,Germany
+2022,,,30,5,10,500,Germany
+2022,10,Widget B,30,15,5,1000,Germany
+2022,3,Gadget X,100,15,50,200,Philippines
+2024,7,Widget A,50,0,10,,
+2022,10,Widget A,30,15,1,500,India
+2022,4,Widget B,,5,5,500,Brazil
+2023,9,,100,,,200,India
+,3,Gadget X,20,,50,500,
+2022,1,Widget B,,0,10,100,India
+2023,1,Widget C,100,5,20,1000,Philippines
+2022,6,Gadget X,50,5,10,1000,USA
+2022,10,,10,0,1,1000,Philippines
+2022,11,Gadget X,100,,1,200,USA
+2024,4,Gadget X,100,15,,1000,Germany
+2024,1,Gadget X,20,,1,,Philippines
+2025,5,Gadget X,100,,1,,Philippines
+2022,5,,20,15,5,,USA
+2024,,Widget B,50,5,20,,India
+2025,3,Widget A,,5,,100,
+2022,1,Gadget Y,100,10,10,100,India
+2024,7,Widget B,50,0,1,500,Philippines
+2025,3,Widget A,50,0,10,200,USA
+2023,6,,100,0,10,,
+2023,11,Gadget Y,50,10,50,,USA
+2023,2,Widget C,50,0,1,500,USA
+2023,5,Gadget Y,30,,50,500,Germany
+2022,5,,50,5,10,1000,Germany
+2023,10,,100,0,5,200,Brazil
+2024,,Widget A,50,,5,100,Germany
+2024,3,Widget C,30,15,20,1000,Germany
+2024,10,Gadget Y,30,5,5,,Brazil
+2023,,Widget B,50,15,5,1000,Brazil
+2023,6,Widget C,30,10,5,,
+2022,5,Gadget X,100,10,,500,Philippines
+2022,6,Widget B,,15,20,100,India
+2023,1,Widget A,,0,50,200,India
+2025,4,Widget A,,10,20,1000,USA
+2025,12,Widget B,30,15,1,,Brazil
+2025,8,Widget C,10,,50,200,USA
+2024,4,Widget A,,,50,200,Germany
+2025,3,Gadget X,,5,,,Germany
+2024,11,Widget A,50,0,5,100,Germany
+2024,2,Gadget X,30,15,10,,Philippines
+2023,2,Widget C,50,5,10,200,UK
+2022,1,Widget B,50,,10,,USA
+2022,10,,20,15,50,,India
+2024,10,Widget A,,5,1,200,Brazil
+2023,12,,100,10,1,,Brazil
+2022,10,Widget C,50,0,20,1000,Philippines
+2025,4,Gadget Y,100,,,,UK
+2025,10,Gadget Y,100,10,10,,UK
+2022,11,Gadget Y,20,15,1,100,Brazil
+2023,3,Widget B,30,,20,1000,
+2022,2,Widget B,,5,20,1000,
+2022,7,Widget A,30,,5,100,UK
+2024,4,Widget B,30,10,1,1000,India
+2022,10,Gadget X,50,5,,1000,Philippines
+2024,2,Widget B,10,15,,100,Germany
+2023,6,Gadget X,,0,1,,UK
+2023,2,Widget A,,,1,100,India
+2024,4,Widget C,20,5,1,1000,Philippines
+2025,7,Widget B,10,10,,200,Brazil
+2024,11,,20,10,10,100,USA
+,6,Widget C,30,0,1,100,USA
+2022,9,Gadget X,,15,50,500,Brazil
+2022,2,,100,15,,500,USA
+2025,3,Widget B,100,0,1,,USA
+2025,11,Widget C,,5,10,200,USA
+2022,,Widget A,20,,5,100,Germany
+2024,1,Widget A,,15,50,200,Philippines
+2024,,Widget A,50,10,,,India
+2022,7,Widget C,50,,,,USA
+2022,,,30,15,20,,UK
+2022,1,Gadget Y,10,10,,500,Brazil
+2024,1,Widget B,,,20,,UK
+2022,2,Widget A,30,0,1,100,
+2023,4,Widget C,20,0,10,500,Germany
+2023,12,Widget B,20,,1,,Philippines
+2023,1,Widget C,30,5,10,,Brazil
+2024,7,,10,10,,,Philippines
+2022,,Gadget Y,50,,50,100,UK
+2022,8,Widget C,50,10,1,1000,
+2022,,Widget A,100,10,10,200,UK
+2025,10,,50,15,,200,Germany
+,6,Widget A,100,5,20,100,Brazil
+2022,6,,10,15,50,100,Brazil
+2022,6,,30,0,1,1000,
+2022,9,Gadget X,100,15,5,200,
+2023,5,Widget A,100,10,50,500,
+2025,1,,20,15,10,500,USA
+2025,2,Widget A,10,,50,100,India
+2025,1,Widget C,10,5,,100,Germany
+2022,9,Gadget Y,10,15,1,100,USA
+2023,9,Gadget X,100,,,100,Philippines
+2024,7,Widget B,,10,1,200,India
+2022,,Gadget X,100,5,5,200,Philippines
+2022,6,Widget A,30,5,10,100,UK
+2022,2,,100,0,10,,USA
+2022,1,Widget C,20,15,10,,USA
+2025,3,Gadget X,100,10,20,,UK
+2025,12,Widget C,20,10,20,,India
+2024,8,Widget B,,10,5,200,USA
+2025,2,Gadget Y,100,10,20,1000,
+2025,8,Gadget X,20,,,500,Germany
+2022,11,Gadget X,20,,,100,USA
+2024,,Widget B,10,,20,,UK
+2022,8,Widget A,50,15,10,,Brazil
+2023,,Widget B,20,10,5,200,Germany
+2024,2,Widget B,,5,10,500,USA
+2024,6,Widget C,50,5,1,100,UK
+2022,4,Widget C,10,15,5,,Philippines
+2025,12,Widget C,,0,20,1000,USA
+2022,1,Widget C,100,5,5,1000,India
+2022,9,,20,,20,100,India
+2024,10,Widget A,10,5,50,200,UK
+2023,3,Widget C,30,15,20,200,UK
+2024,10,Widget B,30,0,1,,
+2022,8,Widget B,50,15,10,,Philippines
+2025,7,,,5,50,,
+2023,3,Widget B,50,10,5,200,USA
+2023,2,Gadget Y,10,15,,100,
+2025,9,Widget C,,5,,100,India
+2024,5,Widget B,10,,5,1000,USA
+2024,2,Widget A,10,,5,500,Brazil
+2023,10,Widget A,100,0,1,500,Brazil
+2024,,Gadget X,10,,50,1000,Brazil
+2023,8,Gadget X,30,,5,100,UK
+,12,,,,5,200,
+2022,12,Widget B,20,0,5,100,Germany
+2025,5,Widget B,100,5,5,500,Germany
+2025,3,Gadget Y,50,5,20,100,UK
+2022,,Gadget X,,,1,200,Brazil
+,4,,20,0,5,500,Brazil
+2023,12,,10,,10,500,Philippines
+2025,9,Gadget Y,30,10,5,100,Germany
+2022,8,Gadget Y,10,15,20,1000,Philippines
+2024,7,Widget C,10,5,20,200,
+2024,12,Widget B,10,5,10,200,Philippines
+2023,2,,30,,5,100,India
+2024,10,Widget B,100,0,5,200,USA
+2022,,Gadget Y,10,0,,500,USA
+2024,10,Gadget Y,30,0,1,200,Brazil
+2025,10,,,10,5,100,UK
+2023,8,Widget B,10,15,20,1000,India
+2025,8,Widget B,50,10,50,500,India
+2022,11,Gadget Y,,10,10,100,USA
+2022,6,Gadget X,,5,1,,USA
+2022,7,Gadget X,10,,1,500,Germany
+2023,9,Widget B,100,5,10,200,USA
+2025,5,,20,,10,,India
+2023,3,Gadget X,50,,20,1000,India
+2023,8,Gadget Y,30,5,1,100,
+2022,6,Widget A,30,,,500,UK
+2023,4,Gadget X,100,15,10,500,India
+2023,1,Widget C,20,0,20,,Brazil
+2024,6,Gadget Y,20,5,10,1000,India
+2025,4,Widget B,30,5,50,1000,USA
+2025,1,Widget A,100,15,5,200,
+2022,2,,10,15,5,500,
+2025,11,Widget B,10,10,5,200,Philippines
+2024,9,Gadget X,50,10,10,500,
+2022,1,Widget C,10,0,1,500,UK
+2024,11,Widget C,30,,10,,
+2024,12,Widget A,20,15,1,500,Brazil
+2024,8,Widget C,20,10,20,1000,USA
+2025,6,Widget C,10,10,1,200,UK
+2025,7,Gadget X,30,5,,1000,Philippines
+2024,2,Gadget X,50,10,10,100,Philippines
+2022,,,20,15,,100,India
+2025,12,Widget B,30,,10,200,India
+2024,12,Gadget X,30,10,5,100,Germany
+2025,10,Widget B,30,10,1,200,India
+2024,3,Gadget X,50,15,20,100,Brazil
+2025,7,,,5,,500,India
+,11,Gadget Y,10,0,10,,
+2023,6,Widget C,,0,10,,India
+2024,3,Widget B,100,15,10,200,Philippines
+2025,3,Widget B,,10,,500,India
+2024,9,Gadget X,20,10,5,1000,Philippines
+2025,4,Widget C,100,10,1,100,UK
+2022,10,Gadget X,50,0,50,200,USA
+2024,8,Widget A,,5,20,500,India
+2024,9,Gadget Y,50,10,5,100,India
+2022,9,Gadget X,20,0,10,1000,Brazil
+2025,12,Widget B,30,,10,500,Germany
+2023,5,,30,5,20,,Philippines
+2025,9,Widget B,10,0,5,500,India
+2025,5,,50,10,20,,
+2024,8,,30,5,50,500,Germany
+2023,6,Gadget X,,15,1,1000,Philippines
+2024,3,,20,15,50,1000,USA
+2025,9,Gadget X,100,0,,200,
+2023,12,Gadget Y,30,15,10,,Germany
+2024,12,Widget B,50,15,,100,Brazil
+2023,,Gadget X,30,,5,,Germany
+2024,3,Widget B,50,10,1,200,Philippines
+2025,3,Widget A,30,0,,200,USA
+2024,6,Gadget X,100,5,1,1000,USA
+,1,Widget C,20,5,50,100,Brazil
+2024,7,Widget A,20,0,20,500,Brazil
+2024,1,,,5,1,,India
+2025,11,,50,,20,500,Brazil
+2025,3,Gadget Y,50,,10,1000,
+2025,12,Gadget Y,,10,1,100,Germany
+2025,9,Widget A,,5,1,1000,India
+2023,8,Widget C,50,10,1,,Brazil
+2023,7,Widget B,100,15,,,Germany
+2024,1,Widget B,100,10,20,200,UK
+2023,12,Gadget X,100,0,5,500,Brazil
+2022,10,Widget A,20,10,20,200,Germany
+2025,10,Widget A,100,,,,UK
+2024,12,Gadget Y,100,10,20,1000,India
+2022,10,Gadget X,10,0,10,200,UK
+2023,5,Gadget X,100,10,10,500,Brazil
+2024,11,Widget C,50,15,10,,USA
+2022,2,Gadget X,,10,20,100,India
+2023,1,Widget C,10,5,5,,India
+2024,7,Gadget X,100,15,50,100,
+2023,6,Widget C,30,5,10,,USA
+2023,12,Widget A,30,15,10,1000,Germany
+2025,1,Widget B,20,,1,1000,Germany
+2023,,Widget A,10,5,10,500,USA
+2024,11,Widget A,20,,,1000,Brazil
+2024,1,Gadget Y,20,0,20,500,UK
+2022,8,Widget A,,0,10,200,India
+2022,6,Widget A,30,10,20,500,Philippines
+2025,,Gadget X,30,,5,,Philippines
+2024,2,Widget C,30,5,5,500,USA
+2025,9,Widget B,100,,,1000,Philippines
+2022,6,Widget B,,15,,1000,Brazil
+2023,5,Widget B,50,15,1,1000,India
+2022,8,Gadget X,100,5,50,100,Brazil
+2025,12,Widget A,20,,5,500,Philippines
+2022,1,Gadget X,,15,1,500,India
+2024,10,Widget B,,15,1,200,USA
+2024,8,Gadget X,100,,10,,UK
+2024,12,Widget A,,15,1,500,India
+2022,8,Gadget X,10,0,5,200,Brazil
+2024,6,,10,10,20,500,USA
+2022,4,Gadget Y,30,5,10,500,UK
+2023,12,Widget C,10,,5,200,UK
+2022,7,Gadget Y,,15,5,1000,Philippines
+,11,Widget B,100,,1,100,UK
+2022,9,Widget C,20,0,1,,Brazil
+2022,7,Widget B,,10,20,,UK
+2023,2,Widget A,10,,10,1000,
+2023,12,Gadget Y,20,10,5,1000,
+2023,,Widget B,100,5,1,100,Germany
+2025,7,Widget C,,5,1,500,Philippines
+2025,7,Widget C,50,5,10,,Philippines
+2025,12,Widget A,10,5,,,
+2024,11,Gadget X,20,10,1,500,Philippines
+2024,9,Widget B,20,,,1000,USA
+2025,12,Widget A,50,10,50,100,
+2025,2,Gadget Y,50,10,50,,Germany
+2024,9,Gadget Y,10,5,,200,Philippines
+2023,10,Widget B,50,,5,,Philippines
+2022,7,Gadget X,30,0,1,100,Germany
+2022,,Gadget Y,50,10,1,500,
+2024,12,Widget B,10,15,1,500,India
+2022,1,Gadget X,30,10,,100,Philippines
+2024,1,Gadget X,10,10,20,100,Brazil
+2023,6,Widget B,100,0,10,1000,
+2022,4,Gadget Y,50,10,20,500,Philippines
+2025,,,,5,50,,Brazil
+2023,9,Gadget Y,100,15,,200,India
+2024,6,Gadget Y,30,5,10,500,Germany
+2022,6,Widget A,30,5,,1000,UK
+2023,10,Widget C,10,,10,1000,India
+2023,9,Widget C,,10,20,500,
+2024,4,Gadget X,50,,20,200,Brazil
+2024,12,Widget B,20,5,20,500,Germany
+2023,6,Widget C,100,,,500,Philippines
+2022,,Widget A,30,10,50,1000,Germany
+2024,1,,100,0,10,200,
+2023,2,Widget C,,0,10,,Brazil
+2023,3,Widget B,10,15,10,200,Germany
+2022,5,Gadget Y,,5,50,,USA
+2025,5,Gadget Y,10,,20,1000,USA
+2023,9,,20,5,20,1000,Germany
+2022,11,Widget C,,,,500,USA
+2022,,,20,10,5,100,
+2023,9,Gadget Y,,,50,,India
+2023,9,Widget A,10,5,20,100,Brazil
+2024,3,,50,5,1,1000,Philippines
+2023,4,Widget C,50,,1,200,Philippines
+2022,1,Gadget Y,20,15,50,,Philippines
+2022,9,,,0,5,500,Brazil
+2025,7,Widget B,100,15,1,200,India
+2022,5,Gadget Y,100,15,20,500,
+2025,2,Gadget Y,,0,1,,
+2024,1,Widget B,20,15,50,1000,USA
+2022,3,Widget C,30,5,20,100,India
+2022,12,Gadget Y,,,10,100,Germany
+2022,3,,,,50,1000,Brazil
+2025,7,Gadget X,30,0,1,200,
+2023,2,Widget B,20,15,5,200,UK
+,2,Widget A,10,15,,500,USA
+2022,12,,20,10,1,100,Brazil
+2024,8,Gadget Y,50,15,20,100,
+2023,1,Gadget Y,10,0,1,,
+2023,10,Widget C,30,5,5,200,India
+2024,6,Widget B,,15,10,200,Brazil
+2025,2,Widget B,100,,,1000,UK
+2023,9,Widget B,100,,20,100,Philippines
+2024,3,Widget A,100,5,,100,Philippines
+2022,5,Widget C,20,15,20,100,USA
+2023,,,30,5,10,100,
+2022,9,Widget A,20,0,,200,
+2024,2,Gadget X,20,,,500,UK
+2025,6,Widget C,100,5,,,UK
+2023,7,Widget C,10,15,10,200,India
+2022,3,Gadget Y,30,10,20,1000,
+2023,9,Widget B,100,10,10,1000,Brazil
+2022,5,Gadget Y,20,15,50,100,UK
+2022,,,30,15,20,200,India
+2023,5,Gadget X,,5,50,,Brazil
+2023,11,Widget C,50,0,10,1000,Brazil
+2025,7,Widget C,100,5,1,500,Philippines
+2025,3,Widget B,30,10,10,500,Philippines
+2022,7,Widget B,50,10,20,,India
+2022,2,Gadget Y,20,15,1,,Germany
+2023,7,Widget B,20,0,,1000,Philippines
+2023,12,Gadget Y,100,10,5,200,Germany
+2023,8,Gadget Y,20,15,5,1000,
+2023,12,Widget C,20,,5,200,USA
+2022,2,Widget C,50,15,20,200,
+2023,7,,,,,500,Germany
+2022,12,Gadget Y,20,15,5,,India
+2025,3,Widget C,50,0,5,200,Germany
+2025,10,Widget C,50,15,20,,
+2025,2,Widget B,10,10,5,100,Germany
+2022,5,Gadget X,100,5,10,100,Philippines
+2023,11,Widget B,20,0,5,,Germany
+2022,8,Widget A,100,10,5,500,Brazil
+2023,7,Widget B,,5,1,,Philippines
+2024,3,Widget A,100,10,1,,Brazil
+2025,4,,20,0,1,200,Germany
+2025,3,Widget C,10,15,10,,UK
+2022,5,Gadget X,50,,50,100,UK
+2023,3,Widget C,100,10,5,1000,Germany
+2023,3,Gadget Y,,5,5,,Brazil
+2023,11,Widget C,,15,50,,USA
+2024,5,Gadget Y,10,0,5,,USA
+2024,8,Widget C,50,0,10,1000,USA
+2022,11,Widget B,50,10,,500,Germany
+2022,4,Gadget X,30,,,,Germany
+2024,4,Widget C,30,10,50,1000,Germany
+2025,1,Gadget X,100,0,,500,Germany
+2022,5,Widget B,,10,50,500,Germany
+2023,9,Widget B,100,5,50,100,Brazil
+2022,12,Gadget Y,10,15,50,500,Philippines
+2023,2,Widget C,,10,20,200,
+2023,7,Widget A,10,15,5,,USA
+2025,,Widget B,,0,50,100,Germany
+2024,9,Widget B,100,,,1000,Philippines
+2024,7,Gadget Y,20,15,1,200,Philippines
+2022,1,Widget C,10,0,10,200,Germany
+2022,10,Widget C,100,10,50,,Brazil
+2025,7,Gadget Y,100,0,1,500,Philippines
+2023,8,,20,0,50,200,
+2025,5,Widget C,50,5,10,1000,India
+2022,1,,100,0,10,100,UK
+2025,1,,,,5,1000,Brazil
+2025,,,30,10,20,500,
+2023,3,Gadget Y,,10,20,,USA
+2022,8,Gadget Y,,10,1,,USA
+2022,4,Widget C,,0,50,500,Germany
+2023,,,10,0,10,100,Brazil
+2025,4,Gadget Y,,15,20,200,Philippines
+2023,1,Gadget Y,20,0,5,1000,
+2024,7,Widget C,20,15,10,500,Germany
+2022,2,Widget A,100,15,10,500,Brazil
+2023,12,Widget C,10,5,,500,
+2025,12,Widget B,30,5,50,,Philippines
+2025,,Gadget X,20,5,,,India
+,1,Gadget X,50,15,10,,Germany
+2023,11,Gadget X,,10,50,1000,UK
+2024,6,Gadget Y,,0,1,100,India
+2024,12,Widget A,30,0,20,100,Germany
+2022,3,,30,0,20,,USA
+2023,2,Widget A,20,15,50,500,UK
+2025,6,Widget B,,5,10,1000,USA
+2022,6,,30,15,20,1000,Germany
+2025,5,Widget A,50,15,10,100,UK
+2023,1,Widget A,20,,10,1000,Germany
+2023,4,,100,0,1,100,Philippines
+2022,6,,50,0,10,500,USA
+2024,9,Widget B,20,10,5,100,UK
+2025,5,Widget C,,0,5,500,Philippines
+2024,12,,30,5,,200,Brazil
+2025,6,Gadget Y,50,,20,1000,USA
+2024,9,Gadget X,,15,20,200,USA
+2025,8,Gadget Y,100,0,20,500,Brazil
+2022,7,Gadget X,20,10,1,500,Brazil
+2023,11,Gadget Y,10,10,5,200,USA
+2024,2,Gadget X,10,15,10,200,UK
+2023,6,Widget C,30,15,10,500,USA
+2025,4,Gadget X,10,,5,100,Brazil
+2025,12,,,5,50,,
+2022,9,Widget A,100,,50,100,USA
+2024,4,Widget C,20,,1,200,USA
+2024,7,Widget B,10,15,5,200,Brazil
+2022,7,Widget B,50,15,20,500,Germany
+2022,5,Widget A,,10,20,200,Brazil
+2023,,Widget B,,,50,1000,
+2023,6,Widget C,20,10,,100,India
+,9,Widget C,50,15,10,200,Brazil
+2024,7,Widget A,100,,1,,UK
+,7,,20,,5,200,Philippines
+2022,11,Gadget Y,50,15,5,1000,Germany
+2025,10,Widget A,10,0,,500,Philippines
+2022,3,Widget A,20,15,1,1000,Brazil
+2022,10,,100,15,50,200,Philippines
+2022,7,Widget C,,,20,100,Germany
+2024,11,Widget B,20,,5,,USA
+2024,12,Widget A,20,0,1,200,
+2023,10,,20,15,10,200,USA
+2023,12,,30,10,10,500,India
+2024,3,Widget B,50,,5,100,
+2023,5,,20,0,1,100,USA
+2025,4,,20,,5,1000,Brazil
+2023,4,Gadget Y,,,,500,Philippines
+2024,11,Widget B,,10,10,200,Philippines
+2022,2,Widget C,100,5,50,500,
+2022,4,,20,,,100,
+2022,12,Widget A,30,15,5,1000,Germany
+,4,Gadget Y,,10,5,500,Philippines
+2022,1,,30,15,20,500,
+2023,,Widget B,100,,20,500,Brazil
+2022,,Widget B,50,15,20,200,Brazil
+2023,11,Widget B,50,,50,200,India
+2025,2,Widget B,50,5,20,100,UK
+2024,9,Widget B,30,10,1,100,UK
+2024,1,Gadget X,50,10,20,1000,
+2022,5,Widget A,100,15,5,200,Philippines
+2024,11,Widget C,10,,1,1000,
+2025,9,Gadget Y,30,5,5,500,Germany
+2023,6,Widget C,,5,5,200,Brazil
+2025,3,Widget C,20,,1,200,
+2022,3,Widget A,30,15,5,1000,India
+2022,5,Widget B,50,15,5,1000,Brazil
+2022,9,Widget C,,,1,200,Philippines
+2023,,,100,0,50,,USA
+2023,9,Gadget X,20,,,,
+2023,6,Widget C,30,15,10,200,Germany
+,2,Gadget Y,30,0,,1000,Brazil
+2022,5,Gadget Y,100,10,,100,UK
+2024,6,Gadget X,,5,50,200,Philippines
+2023,2,Gadget Y,,5,50,200,USA
+2024,,Gadget Y,20,5,50,1000,USA
+2024,1,Gadget Y,50,10,20,1000,UK
+2025,4,Gadget Y,,0,20,200,USA
+2022,5,Widget C,50,5,,500,India
+2024,6,Widget B,,10,1,,Philippines
+2023,10,Gadget X,10,,50,1000,UK
+2023,8,Widget A,50,5,20,100,Philippines
+2024,9,Widget A,20,10,20,100,India
+2022,3,,100,5,20,500,Germany
+2023,12,Widget C,30,15,,,Germany
+2024,9,Widget B,20,,5,1000,UK
+2023,,Widget A,100,5,20,1000,
+2022,11,,30,0,50,1000,Germany
+2024,6,Widget A,100,0,20,100,USA
+2023,8,Widget C,10,10,,1000,USA
+2024,5,Widget C,20,15,10,1000,Germany
+2024,12,Gadget Y,,0,,100,UK
+2025,6,Gadget X,,,20,500,Germany
+2025,9,Widget A,50,0,20,100,Philippines
+2023,7,Gadget Y,30,0,10,,Brazil
+2024,6,,50,0,50,500,Philippines
+2025,9,Widget A,100,5,1,1000,Germany
+2025,,Widget C,,,,1000,Philippines
+2022,10,,30,0,1,1000,
+2023,6,Widget C,100,0,5,200,Brazil
+2022,6,Widget B,30,5,1,,UK
+2022,10,Gadget Y,30,,5,1000,India
+2022,3,Widget B,,15,10,500,Philippines
+2025,11,Gadget X,10,15,1,200,UK
+2023,10,,30,0,50,100,Brazil
+2023,7,Gadget X,50,0,10,500,Philippines
+2024,5,Gadget X,10,10,20,100,Philippines
+2025,2,Widget A,30,15,10,1000,Brazil
+2024,10,Widget C,30,,10,,UK
+2024,10,Widget C,30,10,10,1000,USA
+2022,,Widget A,10,5,20,500,Philippines
+2025,12,,10,0,50,100,Philippines
+2022,7,Widget A,10,0,1,1000,Brazil
+2025,2,,20,0,5,1000,UK
+2022,1,Widget C,,,5,200,Philippines
+2022,6,Gadget Y,20,0,20,100,Germany
+2023,7,,20,15,5,,Germany
+2023,4,Widget A,10,5,,200,Brazil
+2023,10,,10,,1,200,UK
+2024,4,Widget B,,0,20,,Brazil
+2025,6,Gadget Y,100,5,,200,USA
+2023,7,Gadget X,10,10,1,200,Germany
+2022,,Widget B,30,10,,200,Brazil
+2025,5,Widget B,10,15,20,1000,
+2022,7,Gadget X,,5,20,500,India
+2022,2,Widget A,50,15,10,500,
+2025,1,Widget C,20,15,1,500,Philippines
+2024,2,Gadget X,50,15,5,500,India
+2023,12,Widget A,20,5,10,1000,Brazil
+2022,10,Widget B,100,15,20,200,Germany
+2022,,Gadget Y,,,,,Germany
+2023,11,Widget B,30,0,,200,Germany
+2024,2,Gadget Y,20,10,1,500,Philippines
+2024,9,Widget B,,,50,,USA
+2025,4,Gadget X,30,10,20,,USA
+2022,12,Widget C,50,5,50,200,Philippines
+2024,11,,50,10,50,200,Brazil
+2025,6,Widget B,50,5,10,100,Philippines
+2022,10,Widget B,30,15,10,100,Philippines
+2022,4,Widget C,,,1,200,India
+2024,12,Widget A,,5,50,100,
+2023,6,Widget B,100,10,50,200,Germany
+2022,4,Widget C,,0,1,100,
+2023,11,Widget C,30,5,50,200,USA
+2022,10,Widget B,50,10,50,100,USA
+2022,12,,,10,,100,Brazil
+2024,2,Widget C,50,0,,,India
+2025,4,,10,10,50,500,USA
+2025,9,Gadget Y,10,15,50,100,Philippines
+2024,12,Widget B,100,,5,1000,Brazil
+2023,1,Widget C,30,5,5,500,India
+2025,,Gadget X,20,0,,100,
+,7,Gadget Y,10,,10,200,Brazil
+2024,6,Gadget Y,30,,5,100,Germany
+,7,Widget C,20,15,20,500,Philippines
+2022,5,Gadget Y,50,,,1000,USA
+2025,12,Gadget Y,,10,10,,
+2024,10,Widget A,100,10,10,1000,India
+2025,6,Widget B,50,15,1,200,USA
+2023,10,,,0,50,,Germany
+2022,2,,30,5,,100,Germany
+2025,11,Gadget X,100,,,200,India
+2022,9,Gadget Y,10,,50,,Germany
+2023,6,Widget C,50,5,50,1000,Germany
+,6,Gadget X,20,0,20,,UK
+2024,6,Gadget X,20,15,50,100,USA
+2022,4,,50,15,20,,
+2023,3,Gadget Y,,5,1,200,UK
+2024,1,,100,5,1,500,
+2025,9,Widget B,20,15,1,1000,Germany
+2022,5,,100,10,5,200,UK
+2025,4,Gadget Y,30,0,,500,USA
+2024,4,Widget A,20,0,20,500,Philippines
+2024,11,Gadget X,30,15,,500,Philippines
+2025,5,Widget C,10,10,5,200,USA
+2023,9,Widget C,20,10,10,200,
+2024,7,Widget B,20,,1,500,USA
+2023,9,Gadget X,50,15,1,,Philippines
+2023,3,Widget B,,10,1,500,Brazil
+2022,10,Widget B,20,5,,1000,Germany
+2022,5,,,15,10,500,India
+2025,9,Gadget X,30,0,10,1000,
+2025,1,Widget B,20,15,50,1000,USA
+2022,7,Widget B,,5,1,500,UK
+2025,1,Gadget X,,15,50,100,UK
+2023,11,Widget B,50,0,20,500,
+2022,11,Widget B,20,5,,500,UK
+2022,8,Gadget Y,50,5,10,200,India
+2025,11,Gadget Y,100,0,5,100,Brazil
+2024,9,Widget B,,0,,200,India
+2022,4,Widget A,50,15,50,,Brazil
+2025,7,Gadget X,30,5,10,100,Germany
+2022,2,Gadget Y,20,15,1,1000,USA
+2023,10,Gadget Y,100,10,1,1000,India
+2024,9,Widget A,50,15,,1000,
+2023,5,Widget B,,10,50,100,Germany
+2023,1,,50,5,20,,Brazil
+2025,6,Widget C,100,0,50,,USA
+2024,10,Widget B,50,0,5,200,Germany
+,10,,20,5,10,500,USA
+2023,10,Widget B,20,,20,200,UK
+2023,11,Widget B,50,0,10,100,India
+2024,1,,,10,1,,India
+2023,2,Gadget X,10,0,,,Philippines
+2023,12,Widget B,10,15,1,1000,India
+2024,,Gadget X,50,5,,100,Germany
+2024,1,Widget B,20,,50,100,
+2022,5,Gadget Y,30,10,10,500,
+2022,10,Widget A,20,5,,,India
+2025,8,Widget C,,,50,1000,
+2024,,Gadget X,50,15,20,200,Philippines
+2023,,Gadget Y,,10,1,100,USA
+2023,8,Widget B,30,10,10,,
+2023,2,Widget B,30,15,10,100,
+2023,12,Widget C,50,15,50,200,UK
+,12,,,5,20,200,USA
+2023,2,Widget B,30,15,,200,India
+2023,11,Widget A,50,10,10,100,India
+2023,5,,50,5,50,1000,Philippines
+2024,9,Widget C,20,0,,500,India
+,8,,20,0,,200,
+2025,5,Widget B,,15,1,1000,Brazil
+2023,4,Widget C,10,,,100,UK
+2024,6,Widget A,,15,20,200,Brazil
+2023,9,Widget C,10,,,1000,Germany
+2025,12,Gadget X,,15,10,100,Brazil
+2025,4,,50,,20,500,Germany
+2023,4,Gadget X,50,5,50,,Philippines
+2024,10,Gadget X,10,0,5,,Brazil
+2024,4,Widget B,10,,20,200,Germany
+2024,1,Widget B,20,,5,1000,UK
+2023,9,Widget C,100,,,,Philippines
+2022,2,,20,0,10,200,India
+2023,4,Widget C,30,10,50,,Brazil
+2023,9,,,0,,,Germany
+2024,12,,10,0,10,,Philippines
+2022,1,Widget B,30,,20,100,India
+2023,9,Widget A,,15,5,,
+2023,8,Widget A,20,10,10,,
+2024,7,Widget A,100,,,,
+2022,11,,100,10,50,,Germany
+2022,,,20,10,5,1000,Brazil
+2025,5,,,10,20,100,Germany
+2025,11,Gadget X,,15,20,500,USA
+2023,,Gadget Y,,0,20,200,India
+2023,12,Widget B,,5,,500,Brazil
+2022,8,,100,5,50,500,UK
+,9,Widget A,100,10,,100,UK
+2024,12,Widget B,50,,20,100,USA
+2025,2,Widget B,20,15,50,1000,
+2022,11,Widget A,50,5,1,500,India
+2023,5,Gadget Y,30,5,10,200,Philippines
+2023,1,Widget C,100,5,1,500,Brazil
+2022,9,Widget A,30,15,,1000,USA
+2024,1,Gadget X,100,10,5,100,India
+2024,9,Widget A,30,0,10,500,India
+2025,,Widget C,,15,,1000,
+,11,Widget C,10,15,10,100,Germany
+2025,8,Widget A,30,15,,500,Germany
+2022,2,Widget C,10,0,10,500,India
+2023,9,,10,5,10,1000,Germany
+2023,1,Widget C,100,5,5,100,Philippines
+2022,11,Widget A,100,0,5,500,Germany
+2025,12,Widget A,30,0,1,100,Philippines
+2025,3,Widget C,,15,5,200,USA
+2025,1,Widget C,20,5,,1000,Brazil
+2022,1,Gadget Y,,,50,1000,India
+2025,1,Gadget X,20,15,,200,
+2023,12,Widget A,30,,50,1000,USA
+,5,Gadget X,50,15,20,1000,Philippines
+2025,1,Widget B,,15,5,100,USA
+,1,Gadget X,100,5,5,200,Germany
+2023,8,Widget C,50,10,,200,
+2022,4,Gadget Y,50,5,5,500,USA
+,9,Gadget Y,20,,5,200,USA
+2023,5,Gadget Y,100,5,50,100,Philippines
+2024,10,Widget A,,5,50,,India
+2023,2,Widget C,,5,50,,Philippines
+2022,12,,50,10,,100,Philippines
+2024,8,Gadget Y,20,,,1000,Germany
+2023,2,Gadget Y,,15,5,1000,USA
+2022,12,Gadget Y,100,10,1,1000,Brazil
+2025,6,Widget A,30,15,10,200,India
+2025,12,,,15,1,500,India
+2024,1,Widget B,10,15,5,,
+2023,7,,100,0,,1000,India
+2024,7,Widget B,20,10,20,200,
+,12,Widget C,30,0,20,,Philippines
+2025,6,,20,15,1,200,USA
+2023,7,Widget B,30,5,5,100,Brazil
+2022,10,Gadget X,30,,,500,UK
+2024,1,Widget B,30,,10,200,Philippines
+2024,8,Gadget Y,100,0,5,200,Philippines
+2024,6,Gadget X,,5,20,,USA
+2022,1,Gadget Y,10,5,,,Germany
+2024,7,,10,5,50,200,
+2022,4,Widget A,10,0,5,100,USA
+2025,9,Gadget Y,,5,50,100,UK
+,2,Widget A,50,,5,100,India
+2025,3,Gadget X,20,5,50,100,Germany
+2022,9,Gadget X,20,0,1,100,UK
+2025,3,Gadget X,30,0,20,200,Brazil
+2024,1,Widget A,10,15,50,500,India
+2022,4,Widget C,10,15,10,,
+2025,1,Gadget X,,15,20,100,Germany
+2024,11,,10,0,10,100,UK
+2025,9,Widget A,100,15,50,,Germany
+2025,,,20,10,20,500,USA
+2024,,Widget C,10,,5,1000,Brazil
+2023,3,,50,0,5,,UK
+2025,6,Gadget X,30,15,20,,India
+2024,10,Gadget Y,10,15,5,1000,
+2022,12,Widget C,,5,20,200,USA
+2022,10,Gadget X,50,5,,,India
+2025,3,Widget A,30,15,50,,Germany
+,11,Widget C,10,,10,,
+2024,5,,100,,5,100,Germany
+,4,,20,0,20,1000,Germany
+2022,8,,,,20,100,UK
+2024,,Gadget X,20,,5,500,Philippines
+2025,4,,20,5,20,1000,Philippines
+2023,8,Gadget Y,,10,5,500,Germany
+2025,2,Widget B,10,0,20,,
+2024,11,,30,,,100,UK
+2025,,Widget B,100,0,5,,
+2023,6,,50,,,1000,Philippines
+2022,5,Gadget X,30,10,20,1000,UK
+2023,1,Widget C,50,,50,200,USA
+2022,9,Gadget X,30,5,50,500,
+,12,Gadget Y,50,15,,500,Philippines
+2022,2,Widget B,30,5,50,,Philippines
+2025,4,Widget C,,0,20,,Brazil
+2024,4,Gadget Y,50,10,,200,UK
+2022,10,,10,0,20,100,Philippines
+2025,5,,100,5,10,,Brazil
+2022,7,,50,15,5,500,
+2022,5,Widget B,,5,1,100,Philippines
+2024,4,Widget C,50,5,,500,USA
+2024,8,Widget B,100,0,1,,Germany
+2024,2,Widget B,,5,,,UK
+2023,11,Gadget X,10,15,5,1000,Philippines
+2024,3,Widget B,20,10,1,500,
+2023,9,Widget A,10,15,50,100,USA
+2024,2,Gadget X,10,5,50,,Philippines
+2024,8,Widget C,10,5,,,USA
+2023,6,Widget A,,15,50,500,Germany
+2024,9,Widget A,,15,1,200,
+2025,,Widget C,20,,50,200,
+2022,4,Widget C,20,10,20,200,UK
+2022,6,Gadget X,,15,20,100,
+2022,9,Gadget X,100,,20,200,Germany
+2022,11,Widget B,30,10,5,,USA
+2024,6,Widget C,100,10,20,,Germany
+2024,7,,100,0,,100,Germany
+2024,,Gadget X,50,,1,1000,Germany
+2022,3,,10,10,10,500,Germany
+,11,Widget C,50,0,20,,UK
+2022,11,Widget B,100,15,5,200,India
+2023,10,Widget B,10,0,10,,
+2024,11,Gadget X,10,,5,200,Brazil
+2023,7,Gadget Y,30,15,20,100,Germany
+2024,7,Widget B,20,0,50,100,Philippines
+2022,,,10,5,10,500,Brazil
+2025,6,Widget B,,5,5,500,Germany
+2025,10,Widget B,50,0,1,,USA
+2023,1,Widget B,,,10,200,UK
+2023,10,,100,,10,500,India
+2024,4,,50,,10,1000,UK
+2024,12,,30,10,1,1000,Germany
+2025,5,Widget C,,5,5,500,Philippines
+2023,3,Gadget X,,10,10,100,Germany
+2024,2,Gadget X,100,,,200,UK
+2024,10,Widget B,,15,10,,USA
+2022,10,Widget B,30,10,5,,Philippines
+2022,11,Widget C,100,5,10,,Philippines
+2023,8,Gadget X,50,10,10,1000,USA
+2023,2,,,10,10,1000,Germany
+2024,,Widget A,100,5,,,
+2025,9,Widget B,50,10,,1000,Philippines
+2022,1,Gadget Y,,0,20,500,USA
+2022,7,Widget C,50,0,50,,Germany
+2022,6,,10,0,5,100,Germany
+2025,3,Widget B,100,5,1,200,India
+2024,2,Gadget X,100,5,,,USA
+2023,12,Gadget Y,,,20,200,
+2023,8,Gadget X,10,15,5,1000,
+2024,5,Widget B,10,5,,500,Philippines
+2025,6,,100,0,5,1000,UK
+2025,3,Widget B,10,,10,500,Germany
+2022,6,Widget C,30,,10,200,
+2024,2,Gadget Y,100,,10,,Germany
+2023,12,Widget B,50,5,1,1000,India
+2025,1,Gadget X,100,,5,1000,
+2025,8,Gadget X,100,0,1,100,Philippines
+2022,7,Widget C,30,0,,500,USA
+2022,2,Gadget X,30,0,,1000,Germany
+2025,2,Widget B,,0,10,500,
+2022,4,Widget B,20,10,20,1000,UK
+2024,,Widget B,,5,10,200,Germany
+2024,11,Gadget Y,30,,5,1000,USA
+2024,8,Widget A,,15,20,,India
+2024,8,Widget A,100,10,1,500,UK
+2023,8,Widget C,10,10,10,200,
+2022,9,Widget B,,0,,,Germany
+2025,6,Widget C,100,10,10,,India
+2024,3,Widget B,20,0,50,500,Germany
+2023,2,Widget A,,0,,,Philippines
+2022,3,Gadget Y,10,,1,,India
+,4,,30,15,5,,UK
+2023,9,Widget C,30,10,20,500,Germany
+2023,1,Widget A,50,0,50,1000,USA
+2023,9,Gadget Y,50,5,20,100,USA
+2025,8,Gadget X,20,0,10,200,USA
+2024,,Gadget X,50,10,10,200,Brazil
+2024,7,Widget A,,10,1,500,USA
+2024,1,Gadget Y,100,,1,1000,USA
+2024,6,Widget C,50,15,10,500,Brazil
+2024,3,Gadget Y,30,10,50,500,
+2025,,Widget C,,15,50,500,UK
+2022,,Widget A,10,15,50,500,India
+2022,5,Widget C,100,5,,1000,
+2022,5,Gadget X,100,0,1,200,Brazil
+2025,7,Widget B,20,15,10,100,
+2025,12,Gadget X,20,10,50,,India
+2025,4,Widget C,20,15,20,,Brazil
+2022,6,Widget B,,10,5,200,Brazil
+,9,Widget C,20,10,20,1000,UK
+2022,11,Widget A,,5,10,100,Philippines
+2025,5,Gadget X,20,,5,1000,
+,,Widget A,30,,,500,Philippines
+2024,7,Gadget Y,20,5,10,,UK
+2022,,Gadget X,100,15,,500,USA
+2024,10,Widget C,,10,10,500,Philippines
+2023,11,Gadget Y,30,10,1,1000,Brazil
+2023,7,Gadget Y,30,,1,1000,
+2025,3,Gadget Y,30,0,10,1000,Philippines
+2023,6,Widget B,50,15,1,500,
+2023,5,Widget C,,0,10,200,Brazil
+2023,11,Widget C,10,10,5,,Philippines
+2023,8,Gadget X,100,0,20,500,USA
+2024,11,Widget B,50,10,10,200,UK
+2025,,Gadget X,100,,5,1000,India
+2023,7,Widget C,30,0,5,100,USA
+2024,11,,,15,5,200,USA
+2023,9,,100,5,10,,Germany
+2023,6,Widget B,100,5,50,500,
+,10,Widget C,10,0,5,100,Brazil
+2024,1,Widget B,10,,20,1000,Brazil
+2023,10,,100,,10,100,
+2023,2,Widget C,100,10,50,100,India
+2022,5,Widget A,10,10,50,500,India
+2022,4,Widget A,100,0,20,500,USA
+2023,11,Gadget X,20,5,20,100,
+2025,7,Gadget X,20,5,,500,Philippines
+2023,1,Widget B,30,10,,,India
+2022,4,Widget A,30,5,10,1000,Germany
+2022,12,Gadget Y,20,,1,1000,USA
+2024,3,Widget A,20,5,50,,Philippines
+2024,1,Widget A,10,0,,,Germany
+2022,11,,50,,10,100,Germany
+2024,10,Gadget Y,,15,10,100,UK
+2024,,Widget A,50,10,10,200,UK
+2023,,Widget B,50,,50,500,Philippines
+2023,10,,100,5,,,Brazil
+2022,9,Widget C,20,0,10,1000,
+2024,6,Gadget Y,30,5,20,200,Germany
+2024,12,Widget C,20,15,20,100,Philippines
+2023,10,Widget A,20,15,20,1000,
+2025,6,Gadget Y,100,0,1,100,Brazil
+2022,5,Gadget Y,30,10,20,500,Brazil
+2023,4,Widget C,50,0,1,,USA
+2025,3,,10,15,50,,
+2023,4,Widget A,30,10,20,1000,USA
+2023,8,Gadget Y,10,5,,100,Philippines
+2024,10,Widget A,50,15,1,100,India
+2025,9,Widget B,100,0,,,
+2025,12,Widget B,,,5,1000,India
+2023,12,Widget B,100,0,20,100,Brazil
+2024,8,Widget C,20,5,50,100,Philippines
+2023,10,Widget B,50,,5,500,Germany
+2023,8,,50,15,50,100,Germany
+2025,6,Widget A,20,10,1,,Brazil
+2022,9,Gadget X,20,10,10,200,USA
+2025,7,Widget A,100,10,5,100,Brazil
+2022,11,,,15,1,100,
+2025,10,Gadget Y,20,0,20,100,Brazil
+2022,10,Gadget X,,0,1,500,Philippines
+2023,2,Widget A,10,5,50,100,USA
+2022,8,Gadget X,30,15,20,200,India
+2022,7,Widget C,100,5,20,200,Germany
+2024,11,Gadget X,50,15,20,500,USA
+2022,2,Gadget Y,30,15,10,200,Germany
+2025,,,20,0,,100,
+2025,11,Gadget X,50,15,1,100,Philippines
+2025,3,Gadget Y,10,15,,1000,USA
+2025,2,,30,10,10,200,USA
+2023,12,Gadget X,50,15,,500,India
+2025,4,Widget A,30,10,50,1000,Philippines
+2023,7,Widget A,20,,50,200,Brazil
+2025,4,Gadget X,10,10,20,100,Germany
+2024,3,Widget B,10,,5,1000,Philippines
+2022,3,,30,10,1,500,Brazil
+2023,12,Gadget Y,20,15,50,500,India
+2022,2,Widget A,30,,10,1000,
+2022,7,Widget A,10,10,10,100,
+2024,11,,10,5,5,500,Brazil
+2023,7,Gadget Y,20,0,20,100,USA
+2022,12,Widget C,50,5,20,100,
+2024,5,Widget B,,5,50,1000,Philippines
+2022,10,Gadget Y,50,15,10,200,Germany
+2023,6,Widget C,20,10,,100,India
+,9,Widget A,100,10,,100,UK
+2022,11,Widget A,50,5,1,500,India
+2022,5,,100,10,5,200,UK
+2023,2,Widget B,20,15,5,200,UK
+2025,11,Gadget Y,100,0,5,100,Brazil
+2024,11,,50,10,50,200,Brazil
+2025,4,Gadget X,10,,5,100,Brazil
+2025,5,Widget C,,5,5,500,Philippines
+2025,3,Widget A,50,0,10,200,USA
+2023,8,Gadget Y,,10,5,500,Germany
+2023,5,,,15,20,500,Philippines
+2024,2,Widget C,50,0,,,India
+2025,7,Widget A,100,10,5,100,Brazil
+2023,10,,100,,10,100,
+2023,9,Widget C,30,10,20,500,Germany
+2025,6,Widget C,10,10,1,200,UK
+2025,8,Gadget X,100,0,1,100,Philippines
+,1,Gadget X,100,5,5,200,Germany
+2025,9,Widget A,,5,1,1000,India
+2024,1,Gadget X,50,10,20,1000,
+2023,2,Widget A,,,1,100,India
+2023,10,Widget B,50,,5,,Philippines
+2022,3,Widget A,20,15,1,1000,Brazil
+2022,,Gadget X,100,5,5,200,Philippines
+2023,2,Gadget Y,10,15,,100,
+2024,10,Gadget Y,50,0,10,100,Brazil
+2023,12,Gadget X,50,15,,500,India
+2025,8,Gadget X,20,0,10,200,USA
+2024,3,Widget A,20,5,50,,Philippines
+2022,8,Gadget X,100,5,50,100,Brazil
+2023,2,Widget C,50,0,1,500,USA
+2023,11,Widget B,30,0,,200,Germany
+2025,5,Widget A,50,15,10,100,UK
+2024,9,Gadget Y,10,5,,200,Philippines
+2025,10,,50,15,,200,Germany
+2025,6,Widget C,100,0,50,,USA
+2023,7,Gadget Y,30,0,10,,Brazil
+2023,9,Gadget Y,50,5,20,100,USA
+2024,10,,20,0,1,500,Brazil
+2023,5,Gadget X,100,10,10,500,Brazil
+2022,8,Widget A,50,10,1,500,India
+2024,6,Gadget X,100,5,1,1000,USA
+2022,11,,,15,1,100,
+2025,12,Widget B,30,,10,500,Germany
+2024,11,Widget C,30,,10,,
+2023,7,Gadget Y,30,,1,1000,
+2025,12,,10,0,50,100,Philippines
+2023,8,Gadget Y,20,15,5,1000,
+2025,,Widget C,20,,50,200,
